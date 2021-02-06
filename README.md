@@ -5,4 +5,4 @@
 
 
 ## 参考資料
-- fumi238000/JS_typing_game to confirm.
+https://www.sejuku.net/blog/92667
