@@ -6,3 +6,5 @@
 
 ## 参考資料
 https://www.sejuku.net/blog/92667
+
+https://novicengineering.com/javascript_typinggame/
