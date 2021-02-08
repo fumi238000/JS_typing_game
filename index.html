@@ -3,10 +3,18 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
   <title>タイピングゲーム</title>
 </head>
 <body>
   <h1>タイピングゲーム</h1>
+  <h1 id="question">問題文</h1>
+  <div class="typing_form">
+    <form id="typing" onsubmit="return false" action="#">
+      <input type="text" name="text" id="text">
+    </form>
+    <p id="timer">スタート</p>
+  </div>
 </body>
 <script src="main.js"></script>
 </html>

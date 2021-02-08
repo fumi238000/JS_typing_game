@@ -1,0 +1,14 @@
+h1 {
+  font-size: 50px;
+  text-align: center;
+}
+
+#subject {
+  color: red;
+}
+
+.typing_form {
+  color: black;
+  text-align: center;
+  padding: 50px;
+}
